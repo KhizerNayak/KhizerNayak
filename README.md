@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khizer nayak</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h3 align="center">A passionate Data Enthusiast from India.</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://www.bing.com/th/id/OGC.c072d63d5a6ada8c83abef48e223408c?pid=1.7&rurl=https%3a%2f%2fhackernoon.com%2fimages%2ff2px36fy.gif&ehk=KN%2bMXLf0LXJPMspgTKJE1oLBBm8C2GrCyCvoWYVQnro%3d" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khizernayak&label=Profile%20views&color=0e75b6&style=flat" alt="khizernayak" /> </p>
 
 - 🔭 I’m currently working on **Dotnet**
 
-- 🌱 I’m currently learning **React,dotnet-framework**
+- 🌱 I’m currently working on **data streaming, batch processing, data modelling**
 
 - 💬 Ask me about **Anything related to work**
 
