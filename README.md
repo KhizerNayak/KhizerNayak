@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khizernayak&label=Profile%20views&color=0e75b6&style=flat" alt="khizernayak" /> </p>
 
-- 🔭 I’m currently working on **Dotnet**
+- 🔭 I’m currently working as **Data Engineer**
 
 - 🌱 I’m currently working on **data streaming, batch processing, data modelling**
 
